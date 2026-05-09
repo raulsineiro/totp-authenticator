@@ -46,6 +46,8 @@ Indica si el código es válido o inválido.
 
 ![validar_totp.py](imagenes/validar_totp.jpg)
 
+Como podemos ver en la siguiente imágen, al introducir los códigos que nos da la app (los dos primeros) nos los valida, pero si introducimos un código incorrecto nos da error:
+
 ![Ejecución validar_totp.py](imagenes/cmd_validar.jpg)
 
 Con esto ya tendríamos un validador TOTP completamente funcional, capaz de integrarse
