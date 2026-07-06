@@ -1,4 +1,4 @@
-# TOTP Authenticator 🔐
+# 🔐 TOTP Authenticator
 
 Utilidad en Python para generar y validar contraseñas de un solo uso basadas en tiempo (**TOTP**),
 compatible con Google Authenticator y cualquier aplicación que cumpla el estándar RFC 6238.
